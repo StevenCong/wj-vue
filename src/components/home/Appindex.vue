@@ -1,6 +1,6 @@
 <template>
     <div>
-      Hello World!
+      这里是首页！
     </div>
 </template>
 
